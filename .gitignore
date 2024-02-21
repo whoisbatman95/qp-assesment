@@ -1,5 +1,5 @@
 /node_modules
 *lock.json
 /scripts
-.eslintrc.json
+.eslintrc.js
 /dist
