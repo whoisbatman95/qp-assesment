@@ -1,10 +1,10 @@
 import express from 'express';
 import { 
-  addGroceryItem, 
-  viewGroceryItems, 
-  removeGroceryItem, 
-  updateGroceryItem, 
-  manageInventory 
+    addGroceryItem, 
+    viewGroceryItems, 
+    removeGroceryItem, 
+    updateGroceryItem, 
+    manageInventory 
 } from '../controllers/adminController';
 
 const router = express.Router();

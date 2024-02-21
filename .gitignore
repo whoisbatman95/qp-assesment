@@ -2,3 +2,4 @@
 *lock.json
 /scripts
 .eslintrc.json
+/dist
